@@ -1,8 +1,10 @@
 # The pokemon book 
 
+//Projeto em construção 
+
 O catálogo mais abrangente e prático para encontrar seu pokemón favorito. Além de saber suas características, elementos e muito mais. Utilize o maravilhoso The pokemon book sempre que necessário!
 
-![Alt text](<tela incial.PNG>)
+
 ![Alt text](<tela principal.PNG>)
 
 ## Índice
@@ -18,9 +20,6 @@ O catálogo mais abrangente e prático para encontrar seu pokemón favorito. Al�
 The pokemon book é uma aplicação criada para listar, ordenar e filtrar todos os pokemons por elemento, ordem alfabética, pesquisa direta e catálogo. Facilitando para o usuário a busca da informação que precisa. 
 
 
-> Site será alterado mais para frente para que fique fiel ao protópito.
-> Veja o prototipo por esse site: https://www.canva.com/design/DAFsLAUUbIk/Ul8rpaJ01XKEokHF6BLmAg/edit?utm_content=DAFsLAUUbIk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
-
 
 ## Funcionalidades do projeto 
 
@@ -32,7 +31,15 @@ The pokemon book é uma aplicação criada para listar, ordenar e filtrar todos 
 
 ## Tecnologias utilizadas neste projeto 
 
-Neste projeto foram utilizados apenas aplicações em javascript, html e css para a elaboração de todas as funcionalidades. 
+* HTML semântico
+* Seletores de CSS
+* Box model
+* Flexbox
+* Seletores de DOM
+* Manipulação de eventos DOM
+* Manipulação dinâmica de DOM
+* Funcionalidades em JavaScript como: diferenciação de dados primitivos e não primitivos, arrays, objetos, variáveis, condicionais, laços, funções, testes unitários, ECMAScript, linter entre outros 
+  
 
 
 ## Como rodar a aplicação 
@@ -56,6 +63,10 @@ para ver o nível de cobertura dos testes usando o comando `npm test`.
 
 
 Verifique aqui como ficou nosso site: 
+
+> Site será alterado futuramente para que fique fiel ao protópito.
+> Veja o prototipo por esse site: https://www.canva.com/design/DAFsLAUUbIk/Ul8rpaJ01XKEokHF6BLmAg/edit?utm_content=DAFsLAUUbIk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
+
 
 
 ## Autores
